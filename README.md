@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  💻 Full Stack Developer • 🌙 Dark UI Lover • 🐱 Cat Person
+  💻 Full Stack Developer
 </p>
 
 ---
@@ -76,28 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaam1r&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaam1r&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Fun Stuff
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-> *Code, break it, fix it, make it better.*
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -110,10 +88,4 @@
   <a href="mailto:aayaamir35@gmail.com">
     <img src="https://img.shields.io/badge/Email-B29BC3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  🌙 Built with curiosity & caffeine
 </p>
