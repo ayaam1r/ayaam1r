@@ -1,108 +1,119 @@
-<h1 align="center">Hi, I'm Aya 👋</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h1 align="center">
+  Hi, I'm Aya 👋
+</h1>
 
 <p align="center">
-  <i>Turning ideas into real, working web applications</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=B29BC3&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Web+Development+Enthusiast;Turning+Ideas+Into+Code" />
+</p>
+
+<p align="center">
+  💻 Full Stack Developer • 🌙 Dark UI Lover • 🐱 Cat Person
 </p>
 
 ---
 
-## 🌸 About Me
+## ✨ About Me
 
-I'm a passionate **Junior Full Stack Developer** with a strong interest in building modern, scalable web applications.  
-I enjoy working across both frontend and backend, solving real problems, and continuously improving my skills through hands-on projects.
-
-- 🎓 Software Engineering graduate  
-- 💻 Focused on full-stack web development  
-- 🌱 Currently improving system design & backend architecture  
-- 🐱 Debugging with a cat on my keyboard (sometimes)
+- 🎓 Software Engineering Graduate
+- 🧠 Passionate about **Web & Full Stack Development**
+- 🔨 Love building real-world projects & learning by doing
+- 🌱 Currently improving **system design & clean architecture**
+- 🌍 Based in **Cairo, Egypt (GMT+2)**
 
 ---
 
 ## 🧠 Most Familiar With
 
-> Technologies I work with the most and feel confident using
-
-**Languages**
-- JavaScript
-- TypeScript
-- PHP
-- Java
-- SQL
-
-**Frameworks & Tools**
-- React.js
-- Laravel
-- Node.js
-- ASP.NET Core
-- MySQL
-
----
-
-## 🛠️ Technical Skills
-
-**Frontend Development**
-- React.js, Angular, Next.js  
-- HTML, CSS, JavaScript, TypeScript  
-- Tailwind CSS, Bootstrap  
-- Flutter (Dart)
-
-**Backend Development**
-- PHP (Laravel), Node.js  
-- ASP.NET Core, Java  
-- RESTful APIs  
-- Authentication & Authorization  
-- MVC Architecture
-
-**Database & Storage**
-- MySQL, SQL Server  
-- MongoDB, Oracle  
-- Database Design & Query Optimization
-
-**Architecture & Design**
-- OOP  
-- Design Patterns (MVC, Singleton, Factory)  
-- SOLID Principles  
-- UML & REST Architecture
-
-**Testing & Quality**
-- Postman, Insomnia  
-- Unit & Integration Testing
-
-**Tools & Workflow**
-- Git, GitHub  
-- VS Code, Figma  
-- Agile / Scrum  
-- Linux, Bash  
-- CI/CD Pipelines
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>JavaScript • PHP • SQL • TypeScript (familiar)</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React.js • HTML • CSS • Bootstrap • Tailwind</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Node.js • Laravel • REST APIs</td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td>MySQL • SQL Server • MongoDB</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
 
-Here are some of the things I've worked on:
+### Backend
+| Java | PHP | Node.js | ASP.NET |
+|------|-----|---------|---------|
+| Laravel | REST APIs | Auth | MVC |
 
-- **📚 Moonlit Tails** – Online bookstore platform (Laravel, MySQL)  
-- **🏢 Real Estate Investment Platform** – Full-stack web app with AI-based recommendations  
-- **🛒 Web Applications & APIs** – Backend systems, authentication flows, and dashboards  
+### Frontend
+| React | Angular | Next.js | Tailwind |
+|-------|---------|----------|----------|
+| Bootstrap | HTML | CSS | TypeScript |
 
-👉 Check out my repositories below to see code, demos, and documentation.
+### Databases & Tools
+| MySQL | MongoDB | Git | Docker |
+|------|----------|-----|--------|
+| Postman | VS Code | Linux | CI/CD |
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Featured Projects
 
-<p>
+| Project | Description | Tech |
+|--------|------------|------|
+| **Moonlit Tails** | Online bookstore platform | Laravel, MySQL |
+| **BrickInvest** | Real estate investment web app | React, ASP.NET |
+| **Portfolio Website** | Personal portfolio | HTML, CSS, Bootstrap |
+
+➡️ *More projects available in my repositories.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaam1r&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaam1r&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Fun Stuff
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+> *Code, break it, fix it, make it better.*
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
   <a href="https://github.com/ayaam1r">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/aya-amir">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="mailto:aayaamir35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-B29BC3?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Built with curiosity, coffee, and a lot of debugging ☕</i>
+  🌙 Built with curiosity & caffeine
 </p>
